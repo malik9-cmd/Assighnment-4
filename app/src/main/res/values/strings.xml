@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android Project 5</string>
+    <string name="welcome_message">Welcome Back!</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="theme">Theme</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+    <string name="custom_theme">Custom</string>
+    <string name="no_internet">No Internet Connection. Showing cached data.</string>
+    <string name="fetch_error">Error fetching data</string>
+    <string name="empty_data">No data available.</string>
+    <string name="view_details">View Details</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+</resources>
